@@ -6,3 +6,5 @@ Gameplay/.vsconfig
 Gameplay/Gameplay.sln
 Gameplay/Assembly-CSharp.csproj
 Gameplay/Assembly-CSharp-Editor.csproj
+Gameplay/obj
+Gameplay/.vs
