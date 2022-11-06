@@ -19,7 +19,7 @@ namespace Framework.CharacterController
 
         private void OnAnimatorMove()
         {
-            Debug.Log(animator.deltaPosition.z);
+            //Debug.Log(animator.deltaPosition.z);
             // Accumulate rootMotion deltas between character updates 
             positionDelta += animator.deltaPosition;
             rotationDelta = animator.deltaRotation * rotationDelta;
